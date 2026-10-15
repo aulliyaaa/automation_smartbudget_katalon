@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Filter_Kategori</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>hilyatul aulia</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>hilyatul aulia</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>3aaf8754-c5c8-4f52-8d74-3eeab87831e8</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>3aaf8754-c5c8-4f52-8d74-3eeab87831e8</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4132e52-c5d0-44f4-8b54-4261f29f967d</testCaseGuid>
+</TestCaseEntity>

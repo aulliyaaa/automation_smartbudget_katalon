@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/btn_mulai",
+      "brokenLocator": "//*[@class \u003d \u0027android.widget.RelativeLayout\u0027 and @resource-id \u003d \u0027com.SmartBudget.GoldFlyApps:id/start\u0027 and (@text \u003d \u0027\u0027 or . \u003d \u0027\u0027)]",
+      "brokenLocatorMethod": "ATTRIBUTES",
+      "proposedLocator": "com.SmartBudget.GoldFlyApps:id/getStartedButton",
+      "proposedLocatorMethod": "ID",
+      "recoveryMethod": "ID",
+      "pathToScreenshot": "C:\\Users\\Hilyatul\\Katalon Studio\\SmartBudget_Testing\\Reports\\Self-healing\\Object Repository\\btn_mulai_ID.png"
+    }
+  ]
+}

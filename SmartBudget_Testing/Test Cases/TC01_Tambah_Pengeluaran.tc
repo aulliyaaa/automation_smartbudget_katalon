@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Tambah_Pengeluaran</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>hilyatul aulia</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>hilyatul aulia</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>3aaf8754-c5c8-4f52-8d74-3eeab87831e8</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>3aaf8754-c5c8-4f52-8d74-3eeab87831e8</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25e5cc9c-da29-420a-bbf9-7bc3b424216b</testCaseGuid>
+</TestCaseEntity>

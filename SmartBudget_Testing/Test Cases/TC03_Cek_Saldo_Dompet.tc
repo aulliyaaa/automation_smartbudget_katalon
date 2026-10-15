@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Cek_Saldo_Dompet</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>hilyatul aulia</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>hilyatul aulia</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>3aaf8754-c5c8-4f52-8d74-3eeab87831e8</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>3aaf8754-c5c8-4f52-8d74-3eeab87831e8</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6e67de2-2486-407d-8766-e750025e9b1d</testCaseGuid>
+</TestCaseEntity>
